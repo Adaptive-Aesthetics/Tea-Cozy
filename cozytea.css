@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: seashell;
+    font-size: 22px;
+    opacity: 0.9;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+#logo {
+    font-family: 'Great Vibes', cursive;
+    position: relative;
+    right: 500px;
+}
+
+.mission {
+    background-image: 
+    url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg);
+    background-color: transparent;
+    height: 700px;
+    width: 1200px;
+    align-items: center;
+
+}
